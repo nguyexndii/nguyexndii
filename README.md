@@ -1,6 +1,6 @@
-<!-- HEADER ANIMATION -->
+<!-- HEADER RPG DIALOGUE BOX -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=45&duration=4500&pause=500&color=A7A459&center=true&vCenter=true&width=800&height=100&lines=Hi,+I'm+Duy+:);hm...+planned+to+say+smth+cool...;...but+never+mind+:D" alt="Typing Animation" />
+  <img src="./assets/header-rpg.svg" width="100%" alt="Header RPG Box" />
 </p>
 
 <!-- SOCIAL CONNECT -->
@@ -13,37 +13,61 @@
 
 ---
 
-<!-- INTRODUCTION -->
-<p align="left">
-  <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="28" /> Welcome~</h2>
-</p>
+<!-- INTRO -->
+### <img src="./assets/bongo-cat.gif" width="28" style="vertical-align: middle;" /> About Me
 
-I'm an IT student on a journey to gain experience and sharpen my programming mindset through real-world projects. Constantly striving to become a better version of myself every day.
+IT student passionate about building **Discord Bots**, **Backend** architectures, and **Pixel Art** aesthetics.
 
-**Huge fan of pixel aesthetics**—from retro games and cinema to digital art.
-
-- 🚀 **Tinkering with:** `Examify` & `Serena Bot`.
-- 🏰 **Current Priority:** Building stable backends & aesthetic UIs.
-- 📘 **Leveling up:** **Java** ecosystem.
-- 👾 **Pixel Obsession:** Games, movies, and anything 8-bit.
-- 🎮 **Signal lost:** Roaming in **Wuthering Waves** & **Valorant**.
+* 🚀 **Main Project:** `Anna Bot` (Discord Bot & Web Controller)
+* 📘 **Currently Leveling Up:** Node.js, React, Java ecosystem & Event-Driven Architecture
+* 🎮 **When AFK:** Exploring **Wuthering Waves**, climbing ranks in **Valorant**, and collecting pixel retro art
 
 ---
 
-<!-- The Pixel Corner -->
+<!-- FEATURED PROJECT -->
+### <img src="./assets/chika-dance.gif" width="30" style="vertical-align: middle;" /> Featured Project: Anna Bot
+
 <p align="left">
-  <h2> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> The Pixel Corner</h2>
+  <img src="https://img.shields.io/badge/Status-Active%20Deployment-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/discord.js-v14-5865F2?style=flat-square&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_18-Tailwind-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Protocol-DAVE%20E2EE-orange?style=flat-square" />
 </p>
 
+> An all-in-one Discord bot paired with a dedicated, real-time Web UI controller.
+
+* 🎧 **24/7 High-Quality Audio:** Smooth streaming from YouTube & Spotify, queue management, smart autoplay, synchronized lyrics, and the cutting-edge **Discord DAVE E2EE** audio protocol.
+* 🎛️ **Web Controller:** Modern dashboard built with **React 18 & Tailwind CSS**, allowing seamless music control right from the browser without typing commands.
+* 🎮 **Community & Utility:** Wordchain & Wordscramble minigames, automated *Wuthering Waves* giftcode scraper, and proactive auto-moderation.
+* 🛠️ **Tech Stack:** `Node.js` • `discord.js v14` • `React 18` • `Express.js` • `MongoDB`
+
+---
+
+<!-- TECH STACK -->
+### <img src="./assets/rikka-1.gif" width="30" style="vertical-align: middle;" /> Core Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,react,vite,tailwind,mongodb,express,java,git,discord" />
+</p>
+
+* **Languages:** JavaScript, Java, SQL
+* **Technologies:** Node.js, discord.js v14, React 18, Express REST API, MongoDB, Redis
+* **Tools & Environment:** Git, Docker (basics), Postman, VS Code, IntelliJ IDEA
+
+---
+
+<!-- THE PIXEL CORNER -->
+### <img src="./assets/anna-yanami.gif" width="30" style="vertical-align: middle;" /> The Pixel Corner
+
 <p align="center">
-  <img src="assets/mario-bros.svg" width="450" alt="Mario Bros Team" />
+  <img src="./assets/mario-bros.svg" width="450" alt="Mario Bros" />
 </p>
 
 ---
 
-<!-- FOOTER STATS -->
+<!-- FOOTER -->
 <p align="center">
-  <img src="https://count.getloli.com/get/@nguyenxdii?theme=moebooru" alt="Moe Counter" />
+  <img src="./assets/subaru-duck.gif" width="55" alt="Subaru Duck Dancing" />
 </p>
 
 <p align="center">
@@ -51,5 +75,5 @@ I'm an IT student on a journey to gain experience and sharpen my programming min
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/raghavk16/raghavk16/master/octo.gif" alt="GitHub Logo" width="120" />
+  <img src="https://count.getloli.com/get/@nguyenxdii?theme=moebooru" alt="Moe Counter" />
 </p>
